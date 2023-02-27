@@ -3,7 +3,7 @@
 # Agencia de Viajes
 
 <div align="center">
-  <img src="img/agencia.jpeg">
+  <img src="https://github.com/jpexposito/docencia/blob/master/ETS/DIAGRAMAS/tareas/img/agencia.jpeg">
 </div>
 
 </br>
@@ -22,3 +22,5 @@
 </br>
 
 ## Diagrama de Clases
+
+<img src="img\Gestion_Centro_Profesores.png">
