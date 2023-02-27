@@ -23,4 +23,4 @@
 
 ## Diagrama de Clases
 
-<img src="img\Gestion_Centro_Profesores.png">
+<img src="img\Agencia_Viajes.png">
