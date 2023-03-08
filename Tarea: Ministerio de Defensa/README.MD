@@ -20,3 +20,5 @@ Consideraciones de diseño:
 </div>
 
 ## Diagrama de Clases
+
+<img src="img\Ministerio_Defensa.png">
